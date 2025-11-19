@@ -1,5 +1,7 @@
 # MusicStream - Web-Based Music Player
 
+sandbox deployment link : https://wf5zxs.csb.app/
+
 **Project Difficulty Level:** Hard  
 **Technologies Used:** HTML5, CSS3, JavaScript (ES6+)
 
